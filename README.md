@@ -4,8 +4,8 @@
 
 1. Alguma tecnologia de backend (Node, Java, Rails) 
 1. Javascript, HTML e CSS
-1. Git - Ceder acesso ao repositório. Pode ser no Bitbucket, Github, Gitlab...
->Criar um README explicando como executar o desafio
+1. Git - Ceder acesso ao repositório. Pode ser Bitbucket, Github, Gitlab, etc.
+    1. Criar um README explicando como executar o desafio
 1. Conhecimentos básicos de banco de dados
 	
 ## Desafio
