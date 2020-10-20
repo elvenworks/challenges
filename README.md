@@ -1,4 +1,4 @@
-# Elven Works - Trainner Challenger
+# Elven Works - Intern Challenge
 
 ## Requerimentos
 
@@ -12,8 +12,8 @@
 
 Criar um sistema de listagem de recusrsos
 
-1.  cadastro de recurso(nome, tipo* e data de criação);
-    1. tipo pode ser DB, API ou Fila
+1. cadastro de recurso(nome, tipo* e data de criação);
+    1. tipo pode ser DB, API, Fila ou Host estático (S3 por ex.)
 1. listagem de recursos com possibilidade de editar e excluir
     1. deve pedir uma confirmação para excluir
 
@@ -21,3 +21,4 @@ Criar um sistema de listagem de recusrsos
 
 1. Teste automatizado
 1. Framework de frontend (React, Angular, etc)
+1. GraphQL
