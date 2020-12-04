@@ -3,7 +3,7 @@
 ## Requerimentos
 
 1. Alguma tecnologia de backend (Node, Java, Rails)
-1. Javascript, HTML e CSS
+1. Javascript ou Typescript, HTML e CSS
 1. Git - Ceder acesso ao repositório. Pode ser Bitbucket, Github, Gitlab, etc.
    1. Criar um README explicando como "rodar" o desafio
 1. Conhecimentos básicos de banco de dados
